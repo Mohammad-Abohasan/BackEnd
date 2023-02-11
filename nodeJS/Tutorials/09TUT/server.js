@@ -5,6 +5,7 @@ const cors = require('cors');
 const corsOptions = require('./config/cirsOptions');
 const { logger } = require('./middleware/logEvents');
 const errorHandler = require('./middleware/errorHandler');
+// const router = require('./routes/subdir');
 const PORT = process.env.PORT || 3500;
 
 // custom middleware logger

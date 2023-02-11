@@ -34,3 +34,8 @@
 20230209	04:20:04	f3fcc5e0-a373-4cef-a80e-c519d9430e11	GET	undefined	/employees
 20230209	04:20:09	e46e0790-b237-4ecf-8cce-d3367151091b	GET	undefined	/employees/1
 20230209	04:20:27	28096af9-bd22-4caf-9bea-22e20e059c1c	GET	undefined	/employees/1
+20230211	18:45:18	4cb037ea-6192-4dc5-b1e6-6559940eb71e	GET	undefined	/employees
+20230211	18:45:21	22f20245-727d-4092-bdf4-f57a38224320	GET	undefined	/employees/1
+20230211	18:45:39	120ebbb2-1bbc-4a97-971c-52800e76023e	GET	undefined	/employees/2
+20230211	18:45:41	af1b21a2-de58-4fd9-891a-cf035f555617	GET	undefined	/employees/3
+20230211	18:45:45	b85c671b-adcb-40b5-9561-9857e36865a7	GET	undefined	/employees/123
