@@ -52,7 +52,7 @@ const deleteEmployee = (req, res) => {
 }
 
 const getEmployee = (req, res) => {
-    const employee = data.employees.find(emp => emp.id === parseInt(req.prams.id));
+    const employee = data.employees.find(emp => emp.id === parseInt(req.params.id));
     if (!employee) {
         return res.status(400).json({ 'message': `Employee ID ${req.body.id} not found.` });
     }
